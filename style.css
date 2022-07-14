@@ -1,24 +1,11 @@
-h2{
-    border: 2px solid;
-  margin: -8px;  
+#main_heading{
+   font-size:large;
+   font-family: 'Playfair Display', serif;
 }
-#p1 {
-    border:
-     10px solid red;
-    margin: 10%;
-    padding: 10%;
+#titleimg{
+    margin: auto;
+    border-radius: 10%;
 }
-
-#p2{
-    border:
-     3px solid yellowgreen;
-    margin : 10px,15px,20px,25px;
-    padding:5%;
-}
-
-#p3{
-    border:
-     3px solid rgb(202, 16, 168);
-    margin-left:auto;
- 
+body{
+    background-color: aliceblue;
 }
