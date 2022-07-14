@@ -1,6 +1,6 @@
 #main_heading{
-   font-size:large;
-   font-family: 'Playfair Display', serif;
+   font: size 3em;;
+   font-family: 'Dancing Script', cursive;
 }
 #titleimg{
     margin: auto;
